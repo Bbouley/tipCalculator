@@ -38,11 +38,3 @@ input.addEventListener('input', function(){
   }
 );
 
-// button.addEventListener('click', function(){
-//   if (option[0].selected === true){
-//   output.innerHTML = 'You should tip $' + tip10(input.value).toFixed(2);} else if(option[1].selected === true){
-//   output.innerHTML = 'You should tip $' + tip15(input.value).toFixed(2);} else if(option[2].selected === true){
-//   output.innerHTML = 'You should tip $' + tip20(input.value).toFixed(2);
-//   }
-//   }
-// );
