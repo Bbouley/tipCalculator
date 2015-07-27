@@ -5,4 +5,10 @@ body{
 
 .btn{
   margin-top: 20px;
+  height: 50px;
 }
+
+.select{
+  margin-top: 20px;
+}
+
